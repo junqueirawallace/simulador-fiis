@@ -1,7 +1,7 @@
 # Simulador de Investimentos em FIIs
 
 ## Sobre o projeto
-Planilha educacional em Excel que simula a evolução de patrimônio a partir de aportes mensais e de uma taxa hipotética de rendimento. Também estima dividendos mensais e distribui o aporte entre seis categorias de fundos imobiliários conforme o perfil selecionado.
+Planilha educacional em Excel que simula a evolução de patrimônio a partir de aportes mensais e de uma taxa hipotética de rendimento. Também estima dividendos mensais e d distribui o aporte entre seis categorias de fundos imobiliários conforme o perfil selecionado.
 
 > **Aviso:** valores e percentuais são exemplos fictícios para fins de aprendizagem. Rentabilidade e dividendos não são garantidos. Este projeto não constitui recomendação de investimento.
 
