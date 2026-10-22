@@ -65,3 +65,9 @@ Percentuais definidos como **exemplos didáticos deste projeto**, não como reco
 
 ## Publicação no GitHub
 Crie um repositório público com nome simples, por exemplo `simulador-fii-excel`. Envie `simulador_fiis.xlsx` e `README.md`. O link a entregar é o endereço do **repositório**, não o link direto para o arquivo.
+
+## Autor
+
+### Wallace F. Junqueira
+
+Graduado em Tecnologia em Logística. Estudante de Gestão da Tecnologia da Informação. Pós Graduado em MBA Data Warehouse e Business Intelligence
